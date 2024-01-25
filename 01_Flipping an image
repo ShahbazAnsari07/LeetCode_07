@@ -8,7 +8,7 @@ To invert an image means that each 0 is replaced by 1, and each 1 is replaced by
 For example, inverting [0,1,1] results in [1,0,0].
 
 
-// CODE //
+// CODE FOR FLIPPING IMAGE //
 
 class Solution {
     public int[][] flipAndInvertImage(int[][] image) {
